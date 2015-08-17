@@ -5,4 +5,7 @@ A list of Arduino projects that can be done
 - A webserver
 - A proximity sensor
 - A motion detector
+- Home automation system
+- Slope detector
+
 
